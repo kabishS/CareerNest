@@ -8,6 +8,6 @@ Secondary: #0F172A
 Background: #F8FAFC
 Cards: #FFFFFF
 Success: #22C55E
-
+............................
 Font: Poppins.
 ............................
