@@ -1,7 +1,7 @@
 CarrerNest
 
 Project Name: CareerNest
-
+.........................
 Theme Colors:
 Primary: #2563EB
 Secondary: #0F172A
